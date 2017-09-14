@@ -1,4 +1,4 @@
-﻿<Window x:Class="M8_Demo2.Window1"
+﻿<Window x:Class="Streaming.Window1"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Loaded="Window_Loaded"

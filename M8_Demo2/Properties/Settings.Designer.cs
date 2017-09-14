@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace M8_Demo2.Properties {
+namespace Streaming.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

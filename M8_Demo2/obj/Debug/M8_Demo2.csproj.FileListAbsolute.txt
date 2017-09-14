@@ -48,3 +48,15 @@ C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2_MarkupCompile.cache
 C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.g.resources
 C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.Properties.Resources.resources
 C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\bin\Debug\Streaming.exe
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\bin\Debug\Streaming.pdb
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\M8_Demo2.csprojResolveAssemblyReference.cache
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Window1.baml
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Window1.g.cs
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\App.g.cs
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Streaming_MarkupCompile.cache
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Streaming.g.resources
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Streaming.Properties.Resources.resources
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Streaming.exe
+C:\Projetos\Git\Streaming-Video-WPF\M8_Demo2\obj\Debug\Streaming.pdb

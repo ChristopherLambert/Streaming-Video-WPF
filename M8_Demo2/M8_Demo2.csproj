@@ -8,8 +8,8 @@
     <ProjectGuid>{2497FCC4-01D8-491B-82ED-A06CA2383F09}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>M8_Demo2</RootNamespace>
-    <AssemblyName>M8_Demo2</AssemblyName>
+    <RootNamespace>Streaming</RootNamespace>
+    <AssemblyName>Streaming</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
