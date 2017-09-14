@@ -1,0 +1,50 @@
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\bin\Debug\M8_Demo2.exe
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\bin\Debug\M8_Demo2.pdb
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\Window1.baml
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\Window1.g.cs
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\App.g.cs
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2_MarkupCompile.cache
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.g.resources
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.Properties.Resources.resources
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.exe
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.pdb
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.exe
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2\M8_Demo2\obj\Debug\M8_Demo2.pdb
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.exe
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.pdb
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\bin\Debug\M8_Demo2.exe
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\bin\Debug\M8_Demo2.pdb
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\Window1.baml
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\Window1.g.cs
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\App.g.cs
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2_MarkupCompile.cache
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.g.resources
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.Properties.Resources.resources
+D:\Documents and Settings\Clement\Mes documents\Visual Studio 2008\Projects\DEMOS\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.exe
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.pdb
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\bin\Debug\M8_Demo2.exe
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\bin\Debug\M8_Demo2.pdb
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.csprojResolveAssemblyReference.cache
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\Window1.baml
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\Window1.g.cs
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\App.g.cs
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2_MarkupCompile.cache
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.g.resources
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.Properties.Resources.resources
+C:\Users\chris\Downloads\M8_Demo2 - MediaPlayer, VideoDrawing, DrawingBrush\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.exe
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.pdb
+C:\Projetos\Git\Streaming Video\M8_Demo2\bin\Debug\M8_Demo2.exe
+C:\Projetos\Git\Streaming Video\M8_Demo2\bin\Debug\M8_Demo2.pdb
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.csprojResolveAssemblyReference.cache
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\Window1.baml
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\Window1.g.cs
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\App.g.cs
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2_MarkupCompile.cache
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.g.resources
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.Properties.Resources.resources
+C:\Projetos\Git\Streaming Video\M8_Demo2\obj\Debug\M8_Demo2.csproj.GenerateResource.Cache
